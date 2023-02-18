@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676744019 source:c:\code\winter3-3-2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iomanip>
+
